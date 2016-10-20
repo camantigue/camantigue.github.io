@@ -1,0 +1,18 @@
+.header-section {
+	display: table;
+
+	background-color: #34495e;
+	color: #fff;
+
+	height: 400px;
+	width: 100%;
+
+	text-align: center;
+	margin: 0 auto;
+	margin-top: -20px;
+}
+
+.header-inner-container {
+	display: table-cell;
+	vertical-align: middle;
+}
