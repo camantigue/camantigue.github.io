@@ -17,6 +17,7 @@ h3 {
 .container {
   max-width: 960px;
   margin: 0 auto;
+  padding: 3rem 1rem;
 }
 
 .outer-container {
@@ -138,4 +139,23 @@ img {
 
 .contact a {
   color: #009FB7;
+}
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 48px;
+  }
+
+  h3 {
+    font-size: 22px;
+  }
+
+  .hero {
+    padding: 6rem 0 6rem 0;
+  }
+
+  .work-items ul li  {
+    width: calc(40% - 24px);
+    margin: 0 13px 9px 13px;
+  }  
 }
