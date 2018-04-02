@@ -1,7 +1,8 @@
 body {
   font-family: 'Gotham 3r';
   height: 100%;
-  font-size: 24px;
+  font-size: 16px;
+  line-height: 28px;
   color: #009FB7;
 }
 
@@ -35,14 +36,13 @@ h3 {
   text-align: center;
 }
 
-.work, .contact {
+.work, .about {
   background-color: rgba(0, 159, 183, 0.03);  
   margin: 0 auto;  
-  padding: 4rem 0 4rem 0;
-  text-align: center;  
+  padding: 2rem 0 4rem 0;
 }
 
-.about {
+.contact {
   background-color: white;  
   margin: 0 auto;  
   padding: 4rem 0 4rem 0;
