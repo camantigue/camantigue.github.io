@@ -42,6 +42,12 @@ h3 {
   text-align: center;  
 }
 
+.about {
+  background-color: white;  
+  margin: 0 auto;  
+  padding: 4rem 0 4rem 0;
+}
+
 .contact {
   padding-bottom: 8rem;
 }
